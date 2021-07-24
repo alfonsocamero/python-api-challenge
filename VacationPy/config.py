@@ -1,1 +1,1 @@
-g_key = 'YOUR KEY HERE'
+g_key = 'AIzaSyDVLlkWv2vXH8p8Gyj5dYZNiFyh5ZlKkvQ'
